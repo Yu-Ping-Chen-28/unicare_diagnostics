@@ -1,0 +1,10 @@
+pandas
+streamlit>=1.28.0
+boto3==1.33.2
+botocore==1.33.2
+sagemaker==2.182.0
+amazon-textract-caller
+amazon-textract-textractor
+langchain==0.0.342
+langchain_community
+anthropic
